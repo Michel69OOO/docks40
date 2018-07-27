@@ -1,0 +1,160 @@
+
+
+.header {
+    position: center;
+    margin-right: 150px;
+    color: white;
+    
+}
+    
+h1{
+	text-align: center;
+}
+
+h2{
+	color: #D3D4D4;
+
+}
+
+img{
+	margin-bottom: 1%;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+
+.barmenu{
+
+	position: fixed;
+
+}
+
+.row{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.calendrier{
+	margin-left: 35%;
+}
+
+.carousel800{
+	top: 0;
+ 	 left: 0;
+ 	 min-width: center;
+ 	 height: 442px;
+	 background-color: black;
+
+}
+
+.picsdroit{
+	text-align: left;
+
+}
+
+.picsgauche{
+	text-align: right;
+
+}
+
+.ledocks40{
+	text-align: center;
+	background-color: #535658;
+	height:600px;
+	color: white;
+
+}
+
+.ledocks40-2 {
+	background-color: #535658;
+}
+
+
+.docks40{
+	text-align: center;
+	background-color: #535658;
+	height:800px;
+	padding: 50px;
+	
+}
+
+.pics{
+	text-align: center;
+	background-color: #535658;
+	height:200px;
+
+}
+/*nos cartes*/
+
+.cartes{
+	background-color: #FFFFFF;
+	height: 500px;
+	text-align: center;
+	color: #535658;
+	border-image-width: 30px;
+	margin: auto;
+	
+}
+
+.gris{
+	background-color: #535658;
+	margin: auto;
+	height: 500px;
+}
+
+.gris-2{
+	background-color: #535658;
+	margin-top: 30px;
+
+	height: 500px;
+
+}
+
+.orange{
+	background-color: #ec7420;
+
+}
+
+.events{
+	background-color: #ec7420;
+	height: 800px;
+	color: #535658;
+	
+	
+}
+.events2{
+	background-color: #ec7420;
+}
+
+
+.wrapper {
+width: 980px;
+margin: 0 auto;
+}
+
+.contact{
+	background-color: #535658;
+	height: 700px;
+	text-align: center;
+	color: #FFFFFF;
+	padding: auto;
+	
+}
+.blanc{
+	color: #FFFFFF
+}
+.disk{
+	padding: center;
+}
+
+.nonsouligne{
+	text-decoration: none;
+	font-size: 25px;
+
+}
+
