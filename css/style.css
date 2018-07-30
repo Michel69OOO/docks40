@@ -65,7 +65,6 @@ a{
 .ledocks40{
 	text-align: center;
 	background-color: #535658;
-	height:600px;
 	color: white;
 
 }
@@ -78,7 +77,6 @@ a{
 .docks40{
 	text-align: center;
 	background-color: #535658;
-	height:800px;
 	padding: 50px;
 	
 }
@@ -93,7 +91,6 @@ a{
 
 .cartes{
 	background-color: #FFFFFF;
-	height: 500px;
 	text-align: center;
 	color: #535658;
 	border-image-width: 30px;
@@ -104,7 +101,7 @@ a{
 .gris{
 	background-color: #535658;
 	margin: auto;
-	height: 500px;
+	height: 100px;
 }
 
 .gris-2{
@@ -122,7 +119,6 @@ a{
 
 .events{
 	background-color: #ec7420;
-	height: 800px;
 	color: #535658;
 	
 	
@@ -139,7 +135,6 @@ margin: 0 auto;
 
 .contact{
 	background-color: #535658;
-	height: 700px;
 	text-align: center;
 	color: #FFFFFF;
 	padding: auto;
